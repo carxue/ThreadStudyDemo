@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/MiPush_SDK_Server_2_2_18.jar"/>
+	<classpathentry kind="lib" path="lib/PushJavaSDK.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.org.bouncycastle.jce-1.39.0.jar"/>
+	<classpathentry kind="lib" path="lib/JavaPNS_2.2.jar"/>
+	<classpathentry kind="lib" path="lib/Log4j.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/huawei-push-sdk-0.3.12.jar"/>
+	<classpathentry kind="lib" path="lib/xiaomi-push-sdk-2.2.7.jar"/>
+	<classpathentry kind="lib" path="lib/meizu-push-sdk-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/fastjson-1.2.31.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/fastjson-1.2.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
